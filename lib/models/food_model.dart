@@ -18,13 +18,12 @@ class FoodModel {
 
   static List<FoodModel> list = [
     FoodModel(
-      name: "Tacos Nanchas Choco",
+      name: "Mon premier plat",
       price: 120,
       weight: 130,
       calory: 460,
       protein: 30,
-      item:
-          "#Chicken #Juicy BBQ #Vegetables #Potato Wedges #Coleslaw Salad #Healthy Yolk #Spicy Fries #Mushroom",
+      item: "#Healthy Yolk #Spicy Fries #Mushroom",
       imgPath: "1.png",
     ),
     FoodModel(
